@@ -10,7 +10,7 @@ function Art() {
 
       <div className="gallery">
         {Imgy.map((val) => {
-          let url = `images/${val}`;
+          let url = `${val}`;
           let pic = `Photu/${val}`;
           return (
           <Link key ={val} href={url}><img src={url} alt="" /></Link>

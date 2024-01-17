@@ -8,11 +8,11 @@ export default function Nav() {
     <div>
     <div className="navi" >
         <div className="left">
-         <img src="images/logo.png" alt="" />
+         <img src="https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Flogo.png?alt=media&token=466db032-cf45-41e3-a710-6d5ada024ea1" alt="" />
         </div>
         <div className="right" id='top'>
             <ul>
-                <li><Link href='/'><span>Home</span><HomeIcon/></Link></li>
+                <li><Link href='/'><span>Gallery</span><HomeIcon/></Link></li>
                 <li><Link href='/Artist'><span>Artist</span><ColorLensIcon/></Link></li>
                 <li><Link href='/Dev'><span>Dev</span><CodeIcon/></Link></li>
             </ul>

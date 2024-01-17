@@ -12,7 +12,7 @@ export default function Dev() {
       <div className="center">
         <h1>Developer </h1>
         <p>It's me Aditya Gaur</p>
-        <img style={{margin:'auto'}} src="images/Me.jpg" alt="" />
+        <img style={{margin:'auto'}} src="https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fme.jpg?alt=media&token=345063ae-509e-4b18-9526-2ecc59336d2e" alt="" />
         <div style={{display:'block'}}> <h3>Check out My Portfolio <a href="https://adityagaur7.github.io/portfolio-adgaur.github.io/" target='_blank'><OpenInNewIcon/></a></h3></div>
        
         <h4>Connect with me</h4>
