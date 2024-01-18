@@ -1,8 +1,10 @@
+'use client'
 import React from "react";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import YouTubeIcon from "@mui/icons-material/YouTube";
-import VerticalAlignTopIcon from '@mui/icons-material/VerticalAlignTop';
+import { AwesomeButton } from "react-awesome-button";
+import 'react-awesome-button/dist/styles.css';
 export default function Foot() {
   return (
     <div>
@@ -40,7 +42,7 @@ export default function Foot() {
           </li>
         </ul>
       </footer>
-     <a href="#top"><button className="top">Scroll To top <VerticalAlignTopIcon/></button></a>
+    <AwesomeButton type="secondary" href="#top">Scroll to Top</AwesomeButton>
     </div>
   );
 }

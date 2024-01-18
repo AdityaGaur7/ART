@@ -12,7 +12,7 @@ function Art() {
           let url = `${val}`;
           let pic = `Photu/${val}`;
           return (
-          <Link key ={val} href={url}><img src={url} alt="" /></Link>
+          <Link key ={val} href={url}><img src={url} alt="" className="image_card"/></Link>
           
           )
           

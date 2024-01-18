@@ -4,7 +4,7 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import OpenInNewIcon from '@mui/icons-material/OpenInNew';
-
+// import { DisplaySettings } from '@mui/icons-material';
 import AnimatedCursor from 'react-animated-cursor';
 
 export default function Dev() {

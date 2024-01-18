@@ -8,7 +8,7 @@ export default function Nav() {
     <div>
     <div className="navi" >
         <div className="left">
-         <img src="https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Flogo.png?alt=media&token=466db032-cf45-41e3-a710-6d5ada024ea1" alt="" />
+          <h1 className='logo'>ARTWORK</h1>
         </div>
         <div className="right" id='top'>
             <ul>
