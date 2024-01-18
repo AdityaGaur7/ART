@@ -4,11 +4,36 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import OpenInNewIcon from '@mui/icons-material/OpenInNew';
-import { DisplaySettings } from '@mui/icons-material';
+
+import AnimatedCursor from 'react-animated-cursor';
+
 export default function Dev() {
   return (
     <div>
       <Nav/>
+      <div className="App">
+      <AnimatedCursor
+      
+  
+  hasBlendMode={true}
+  innerStyle={{
+    backgroundColor: "#333"
+  }}
+  color="#fff"
+  innerSize={8}
+  outerSize={35}
+  innerScale={2}
+  outerScale={5}
+  outerAlpha={1}
+  outerStyle={{
+    // border: '3px solid #fff',
+    backgroundColor: "#fff",
+    mixBlendMode: 'exclusion'
+  }}
+
+      
+      />
+    </div>
       <div className="center">
         <h1>Developer </h1>
         <p>It's me Aditya Gaur</p>
