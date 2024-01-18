@@ -23,4 +23,5 @@ import Nav from '../Components/Nav'
     </div>
   )
 }
+
 export default page

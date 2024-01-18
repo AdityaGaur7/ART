@@ -2,6 +2,8 @@ import React from "react";
 import Imgy from "./Imgy";
 import Link from "next/link";
 function Art() {
+
+ 
   return (
     <>
 
