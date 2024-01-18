@@ -2,14 +2,14 @@ import React from "react";
 
 const Imgy = [
   "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2FGaneshji.jpg?alt=media&token=4a8af70b-95a2-480f-88d7-9489e6d16743",
-  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2FLordKrishna.jpg?alt=media&token=62bdf28f-5718-4bfe-91d0-548f53e0d0bd",
-  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2FLordHanuman.jpg?alt=media&token=4ebedf0f-ef2b-4ce0-af8d-5f2768cacf6a",
-  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2FLordGanesha.jpg?alt=media&token=0c18e049-ffe4-4841-aeb2-20b1016e4db4",
   "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fgirlswinging.jpg?alt=media&token=018479a6-0459-431c-a2e4-d50ba290a72e",
   "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fgirlback.jpg?alt=media&token=79dffea1-afcf-4aa8-97c3-ed56263a99d1",
   "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2FFourflower.jpg?alt=media&token=93694dd5-e539-47f1-b62e-ff5e68057f7e",
   "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fgirlwithflower.jpg?alt=media&token=49e105e8-d7a4-42fc-90a4-015193b8df7e",
   "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fbutterflyonflower.jpg?alt=media&token=4d1ee9cb-8b9a-4752-914c-1f34a92e706d",
+  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2FLordKrishna.jpg?alt=media&token=62bdf28f-5718-4bfe-91d0-548f53e0d0bd",
+  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2FLordHanuman.jpg?alt=media&token=4ebedf0f-ef2b-4ce0-af8d-5f2768cacf6a",
+  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2FLordGanesha.jpg?alt=media&token=0c18e049-ffe4-4841-aeb2-20b1016e4db4",
   "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fcherry.jpg?alt=media&token=3c2f1bcb-d511-4790-91c1-34220d3483b8",
   "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2FKimJoeHung.jpg?alt=media&token=f4a06660-8aed-4d04-99ff-c93beb9e97c7",
   "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Foggy.jpg?alt=media&token=9713c50c-3fb9-42a2-953e-6543e9e3bd07",
