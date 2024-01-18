@@ -8,7 +8,7 @@ export default function Nav() {
     <div>
     <div className="navi" >
         <div className="left">
-          <h1 className='logo'>ARTWORK</h1>
+          <h1 className='logo'>ART</h1>
         </div>
         <div className="right" id='top'>
             <ul>
