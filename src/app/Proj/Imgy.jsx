@@ -1,7 +1,13 @@
 import React from "react";
 
 const Imgy = [
-  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2FGaneshji.jpg?alt=media&token=4a8af70b-95a2-480f-88d7-9489e6d16743",
+  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fmataji.jpg?alt=media&token=3f7b0b99-43b9-4bbf-956a-8b303785bff6",
+  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fkrishna.jpg?alt=media&token=2bb8ed26-9706-4ca6-b584-629ac5bb5348",
+  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fganesha.jpg?alt=media&token=8f18b438-3504-433e-b7ef-f399a5a9e0d0",
+  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fjungkook.jpg?alt=media&token=6aaf6d3f-7293-4fba-9da9-4a2df03fd8d8",
+  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fshinchan.jpg?alt=media&token=99855c22-765f-423d-a709-7c8a8eefde33",
+  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fcutegirl.jpg?alt=media&token=d57ffbe7-50c3-4e0f-9bae-ed3f2e600ba3",
+  "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fshivaji.jpg?alt=media&token=251bb7db-f9b7-495f-acff-69da76cc288c",
   "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fgirlswinging.jpg?alt=media&token=018479a6-0459-431c-a2e4-d50ba290a72e",
   "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2Fgirlback.jpg?alt=media&token=79dffea1-afcf-4aa8-97c3-ed56263a99d1",
   "https://firebasestorage.googleapis.com/v0/b/test1-80c19.appspot.com/o/image%2FFourflower.jpg?alt=media&token=93694dd5-e539-47f1-b62e-ff5e68057f7e",

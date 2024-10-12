@@ -3,9 +3,11 @@ import Nav from '../Components/Nav'
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import YouTubeIcon from '@mui/icons-material/YouTube';
+
 import OpenInNewIcon from '@mui/icons-material/OpenInNew';
 // import { DisplaySettings } from '@mui/icons-material';
 import AnimatedCursor from 'react-animated-cursor';
+import { Twitter } from '@mui/icons-material';
 
 export default function Dev() {
   return (
@@ -44,7 +46,7 @@ export default function Dev() {
         <ul className='flex bada'>
             <li><a href="https://www.linkedin.com/in/aditya-gaur-mmmut/" className='linkedin' target='_blank'><LinkedInIcon/></a></li>
             <li><a href="https://www.instagram.com/__aditya_gaur_090/" className='insta' target='_blank'><InstagramIcon/></a></li>
-            <li><a href="https://www.youtube.com/@adgaur090" className='yt' target='_blank'><YouTubeIcon/></a></li>
+            <li><a href="https://x.com/Aditya7112027" className='twitter' target='_blank'><Twitter/></a></li>
         </ul>
       </div>
     </div>
